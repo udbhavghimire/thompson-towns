@@ -69,8 +69,7 @@
         <nav class="navbar navbar-expand-md " id="navbar">
             <div class=" container">
                 <a href="/" class="navbar-brand">
-
-                    <span class="text-dark navbar-brand">Thompson Towns</span>
+                    <img src="images/thompson logo.jpeg" class="navbar-brand" alt="">
                 </a>
                 <!-- <a href="#Contact" class="btn call-btn d-block d-md-none btn-sm py-2">
                     Register Now
@@ -122,13 +121,13 @@
         <div class="container">
             <div class="hero-container text-center">
                 <div class="d-flex flex-column justify-content-center align-items-center">
+
+                    </span>
                     <h1 class="main-titlee pb-0  mb-0 mt-2 mt-md-0" data-aos="fade-up" data-aos-duration="2000"
                         data-aos-delay="50">Thompson Towns by Mattamy </span>
                     </h1>
                     <p class=" headline-textt mt-0 pt-2 text-white px-md-0 px-3 text-center" data-aos="fade-up"
-                        data-aos-duration="2000" data-aos-delay="50"><span class="btn headline-btn rounded-pill">Now
-                            Selling
-                        </span><br>
+                        data-aos-duration="2000" data-aos-delay="50">
                         Townhomes starting
                         from
                         the $989,990
