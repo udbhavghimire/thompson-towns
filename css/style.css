@@ -31,6 +31,7 @@
 }
 
 .main-titlee {
+    text-shadow: 2px 2px #000000;
     font-size: 4.5rem;
     font-weight: 900;
     color: #ffffff;
@@ -98,7 +99,7 @@
 #hero .hero-container {
     position: relative;
     display: flex;
-    height: calc(95vh - 80px);
+    height: calc(100vh - 80px);
     justify-content: center;
     flex-direction: column;
 }
@@ -114,6 +115,7 @@
 }
 
 .headline-textt {
+    text-shadow: 1px 1px #000000;
     font-size: 1.5rem;
     max-width: 600px;
     line-height: 2rem;
@@ -277,6 +279,10 @@
     font-weight: 600 !important;
 }
 
+.headline-btn {
+    background-color: #003ec4 !important;
+    color: #fff !important;
+}
 
 @media (max-width: 768px) {
 
@@ -292,9 +298,10 @@
     }
 
     .navbar-brand {
+        padding-top: 20px;
         color: rgb(0, 0, 0) !important;
         font-weight: 900 !important;
-        font-size: 2rem !important;
+        font-size: 1.5rem !important;
         margin-right: 0rem !important;
     }
 
@@ -308,6 +315,7 @@
     }
 
     .headline-textt {
+        text-shadow: 1px 1px #000000;
         font-size: 1.2rem;
         max-width: 500px;
         line-height: 2rem;
@@ -326,8 +334,8 @@
     }
 
     .highlight-container {
-        padding-left: 0rem;
-        padding-right: 0rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
     }
 
     .fixcontact {
@@ -344,9 +352,10 @@
     }
 
     .bgggggggg {
-        background-color: #004C3D !important;
+        background-color: #003ec4 !important;
         color: #fff !important;
     }
+
 
     .br-m {
         border-radius: 9px !important;
@@ -360,6 +369,7 @@
     }
 
     .main-titlee {
+        text-shadow: 2px 2px #000000;
         font-size: 2.5rem;
         font-weight: 900;
         color: #ffffff;

@@ -75,7 +75,7 @@
                 <!-- <a href="#Contact" class="btn call-btn d-block d-md-none btn-sm py-2">
                     Register Now
                 </a> -->
-                <button class="d-block d-md-none btn" type="button" data-bs-toggle="collapse"
+                <button class="d-block d-md-none btn btn-dark" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
                     <svg width="18" height="12" viewBox="0 0 18 12" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -126,7 +126,11 @@
                         data-aos-delay="50">Thompson Towns by Mattamy </span>
                     </h1>
                     <p class=" headline-textt mt-0 pt-2 text-white px-md-0 px-3 text-center" data-aos="fade-up"
-                        data-aos-duration="2000" data-aos-delay="50">Now Selling! <br> Townhomes starting from
+                        data-aos-duration="2000" data-aos-delay="50"><span class="btn headline-btn rounded-pill">Now
+                            Selling
+                        </span><br>
+                        Townhomes starting
+                        from
                         the $989,990
                     </p>
 
@@ -175,12 +179,12 @@
         <div class="container pt-md-2">
             <div class="my-md-5 my-sm-4"></div>
             <h2
-                class="fw-bold fs-1 pb-3 text-center justify-content-center py-md-2 py-5 mt-2 mt-md-0 custom-underline ">
+                class="fw-bold fs-1 pb-3 text-center justify-content-center py-md-2 py-5 mt-2 mt-md-0 custom-underline mx-2 ">
                 Highlights of <a href="https://homebaba.ca/Scarborough/mira-townhomes-Scarborough" target="_blank"
                     class=" text-dark text-decoration-none"> Thompson Towns in Scarborough</a> </span>
             </h2>
             <div
-                class="row row-cols-2 row-cols-md-2 d-flex justify-content-center row-cols-lg-4 g-4 gy-5 pt-5  highlight-container">
+                class="row row-cols-2 row-cols-md-2 d-flex justify-content-center row-cols-lg-4 g-5 gy-5 pt-5  highlight-container">
                 <div class="col">
                     <div class="text-center">
                         <img src="https://mattamy-secure.akamaized.net//dfsmedia/a2b99d47a71047839a5a4241f44710ce/69511-50086/corporate-icon-highway"
@@ -234,18 +238,20 @@
     </section>
 
     <section class="py-5">
-        <div class="pt-md-5 pt-5"></div>
-        <div>
-            <h2 class="text-center fw-bold fs-1">Explore the community
-            </h2>
-            <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">Explore the
-                community and take a closer look at the sitemap of Thompson Towns.
-            </span>
-        </div>
-        <div class="container pt-md-4 pt-0">
-            <div class="row">
-                <div class="col">
-                    <img src="images/sitemap.jpg" alt="Thompson Towns Sitemap" class="img-fluid ">
+        <div class="container">
+            <div class="pt-md-5 pt-5"></div>
+            <div>
+                <h2 class="text-center fw-bold fs-1">Explore the community
+                </h2>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">Explore the
+                    community and take a closer look at the sitemap of Thompson Towns.
+                </span>
+            </div>
+            <div class=" pt-md-4 pt-0">
+                <div class="row">
+                    <div class="col">
+                        <img src="images/sitemap.jpg" alt="Thompson Towns Sitemap" class="img-fluid ">
+                    </div>
                 </div>
             </div>
         </div>
