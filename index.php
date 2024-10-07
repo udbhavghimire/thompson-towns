@@ -146,7 +146,7 @@
                 class="fs-1 pt-md-5 pb-md-4 pb-3   fw-bold ps-3 ps-md-0 d-flex justify-content-center  align-items-center text-center">
                 About Thompson Towns in Scarborough</h2>
             <p class=" pb-3 px-3 textt ">
-                <span> <a href="https://condomonk.ca/Scarborough/mira-townhomes-Scarborough" target="_blank"
+                <span> <a href="https://condomonk.ca/scarborough/thomson-towns" target="_blank"
                         class="fw-bold text-decoration-none text-dark">Thompson Towns by Mattamy Homes
                     </a></span>
                 is an exciting new pre-construction development in Scarborough, offering
@@ -480,8 +480,8 @@
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-5 pt-5 justify-content-between ">
                 <div class="col-md-5 my-3 fotwidth center-sm px-4 px-md-0">
 
-                    <p class=" ">
-                        <span class="text-dark navbar-brand">Thompson Towns</span>
+                    <p class=" mb-0">
+                        <span class="text-dark fw-bold fs-4">Thompson Towns</span>
                     </p>
                     <span class="small-text justifyy">
                         Disclaimer: We do not represent the builder. The renderings, floor plans, and images used on
