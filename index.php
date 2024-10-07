@@ -181,7 +181,7 @@
             <div class="my-md-5 my-sm-4"></div>
             <h2
                 class="fw-bold fs-1 pb-3 text-center justify-content-center py-md-2 py-5 mt-2 mt-md-0 custom-underline mx-2 ">
-                Highlights of <a href="https://homebaba.ca/Scarborough/mira-townhomes-Scarborough" target="_blank"
+                Highlights of <a href="https://homebaba.ca/scarborough/thomson-towns" target="_blank"
                     class=" text-dark text-decoration-none"> Thompson Towns in Scarborough</a> </span>
             </h2>
             <div
