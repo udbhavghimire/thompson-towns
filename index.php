@@ -68,8 +68,10 @@
     <div class="sticky-top topp bg-white" id="header">
         <nav class="navbar navbar-expand-md " id="navbar">
             <div class=" container">
-                <a href="/" class="navbar-brand">
-                    <img src="images/thompson logo.jpeg" class="navbar-brand" alt="">
+                <a href="/" class="navbar-brand d-flex align-items-center">
+                    <span class="navbar-text me-2">Thompson Towns</span>
+                    <div class="vr mx-2"></div>
+                    <img src="images/MattamyLogo.svg" alt="Mattamy Homes Logo">
                 </a>
                 <!-- <a href="#Contact" class="btn call-btn d-block d-md-none btn-sm py-2">
                     Register Now

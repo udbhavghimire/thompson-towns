@@ -63,12 +63,32 @@
 }
 
 .navbar-brand {
+    display: flex;
+    align-items: center;
+    height: 60px;
+    margin-right: 0 !important;
+}
 
-    font-size: 28px;
-    color: black !important;
+.navbar-brand .navbar-text {
+    font-size: 20px;
     font-weight: 800;
-    height: 70px;
-    margin-right: 0rem !important;
+    color: black !important;
+}
+
+.navbar-brand img {
+    height: 40px;
+    width: auto;
+}
+
+.navbar-brand .vr {
+    height: 30px;
+    opacity: 1;
+}
+
+.navbar-brand img {
+    height: 40px;
+    width: auto;
+    margin-right: 10px;
 }
 
 .nav-link {
@@ -298,11 +318,27 @@
     }
 
     .navbar-brand {
+        font-size: 18px !important;
+    }
 
-        color: rgb(0, 0, 0) !important;
-        font-weight: 900 !important;
-        font-size: 1.5rem !important;
+    .navbar-brand img {
+        height: 30px;
+    }
+
+    .navbar-brand {
+        font-size: 22px;
+        color: black !important;
+        font-weight: 800;
+        height: 60px;
         margin-right: 0rem !important;
+        display: flex;
+        align-items: center;
+    }
+
+    .navbar-brand img {
+        height: 40px;
+        width: auto;
+        margin-right: 10px;
     }
 
     .textt {
