@@ -22,20 +22,20 @@
     <link rel="stylesheet" href="font/verah.ttf">
 
 
-    <title>Thompson Towns Scarborough | Mattamy Homes - Register Today</title>
-    <meta name="title" content="Thompson Towns Scarborough | Mattamy Homes - Register Today">
+    <title>Thomson Towns Scarborough | Mattamy Homes - Register Today</title>
+    <meta name="title" content="Thomson Towns Scarborough | Mattamy Homes - Register Today">
     <meta name="description"
-        content="Thompson Towns by Mattamy Homes is a new townhome development in Scarborough, offering waterfront living with shops, dining, trails, and parks in a vibrant master-planned community.">
+        content="Thomson Towns by Mattamy Homes is a new townhome development in Scarborough, offering waterfront living with shops, dining, trails, and parks in a vibrant master-planned community.">
     <meta name="keywords"
-        content="Thompson Towns Scarborough, Thompson Towns Scarborough, Townhomes in Scarborough, Mattamy Homes,  Townhouse Scarborough">
+        content="Thomson Towns Scarborough, Thomson Towns Scarborough, Townhomes in Scarborough, Mattamy Homes,  Townhouse Scarborough">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="English">
     <meta name="revisit-after" content="1 days">
-    <meta property="og:image" content="https://thompsontowns.ca/images/thomsom-towns.jpg">
+    <meta property="og:image" content="https://Thompsontowns.ca/images/thomsom-towns.jpg">
 
 
-    <meta property="og:site_name" content="Thompson Towns" />
+    <meta property="og:site_name" content="Thomson Towns" />
     <link rel="icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -46,8 +46,8 @@
         {
             "@context": "https://schema.org",
             "@type": "WebSite",
-            "name": "Thompson Towns ",
-            "url": "https://thompsontowns.ca/"
+            "name": "Thomson Towns ",
+            "url": "https://Thompsontowns.ca/"
         }
     </script>
     <!-- begin Widget Tracker Code -->
@@ -69,7 +69,7 @@
         <nav class="navbar navbar-expand-md " id="navbar">
             <div class=" container">
                 <a href="/" class="navbar-brand d-flex align-items-center">
-                    <span class="navbar-text me-2">Thompson Towns</span>
+                    <span class="navbar-text me-2">Thomson Towns</span>
                     <div class="vr mx-2"></div>
                     <img src="images/MattamyLogo.svg" alt="Mattamy Homes Logo">
                 </a>
@@ -126,7 +126,7 @@
 
                     </span>
                     <h1 class="main-titlee pb-0  mb-0 mt-2 mt-md-0" data-aos="fade-up" data-aos-duration="2000"
-                        data-aos-delay="50">Thompson Towns by Mattamy </span>
+                        data-aos-delay="50">Thomson Towns by Mattamy </span>
                     </h1>
                     <p class=" headline-textt mt-0 pt-2 text-white px-md-0 px-3 text-center" data-aos="fade-up"
                         data-aos-duration="2000" data-aos-delay="50">
@@ -144,10 +144,10 @@
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
             <h2
                 class="fs-1 pt-md-5 pb-md-4 pb-3   fw-bold ps-3 ps-md-0 d-flex justify-content-center  align-items-center text-center">
-                About Thompson Towns in Scarborough</h2>
+                About Thomson Towns in Scarborough</h2>
             <p class=" pb-3 px-3 textt ">
                 <span> <a href="https://condomonk.ca/scarborough/thomson-towns" target="_blank"
-                        class="fw-bold text-decoration-none text-dark">Thompson Towns by Mattamy Homes
+                        class="fw-bold text-decoration-none text-dark">Thomson Towns by Mattamy Homes
                     </a></span>
                 is an exciting new pre-construction development in Scarborough, offering
                 beautifully curated Quick Move-In Homes. Enjoy the freedom to move in right away or this fall, with
@@ -182,7 +182,7 @@
             <h2
                 class="fw-bold fs-1 pb-3 text-center justify-content-center py-md-2 py-5 mt-2 mt-md-0 custom-underline mx-2 ">
                 Highlights of <a href="https://homebaba.ca/scarborough/thomson-towns" target="_blank"
-                    class=" text-dark text-decoration-none"> Thompson Towns in Scarborough</a> </span>
+                    class=" text-dark text-decoration-none"> Thomson Towns in Scarborough</a> </span>
             </h2>
             <div
                 class="row row-cols-2 row-cols-md-2 d-flex justify-content-center row-cols-lg-4 g-5 gy-5 pt-5  highlight-container">
@@ -245,13 +245,13 @@
                 <h2 class="text-center fw-bold fs-1">Explore the community
                 </h2>
                 <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">Explore the
-                    community and take a closer look at the sitemap of Thompson Towns.
+                    community and take a closer look at the sitemap of Thomson Towns.
                 </span>
             </div>
             <div class=" pt-md-4 pt-0">
                 <div class="row">
                     <div class="col">
-                        <img src="images/sitemap.jpg" alt="Thompson Towns Sitemap" class="img-fluid ">
+                        <img src="images/sitemap.jpg" alt="Thomson Towns Sitemap" class="img-fluid ">
                     </div>
                 </div>
             </div>
@@ -266,7 +266,7 @@
             <div class="pt-md-5 pt-5"></div>
             <div class="py-5" id="location">
                 <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center ">
-                    <span class="mx-1">Thompson Towns Scarborough - Location </span>
+                    <span class="mx-1">Thomson Towns Scarborough - Location </span>
                 </h2>
                 <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">1021 Ellesmere
                     Road , Scarborough</span>
@@ -302,20 +302,20 @@
     <section class="mt-md-5 py-md-5" id="faq">
         <div class="container mt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
             <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center brand-color" data-aos="fade-up">
-                <span class="mx-1 pb-5"> Thompson Towns FAQ</span> </span>
+                <span class="mx-1 pb-5"> Thomson Towns FAQ</span> </span>
             </h2>
             <div class="accordion accordion-flush pt-4 " id="accordionFlushExample">
                 <div class="accordion-item">
                     <h3 class="accordion-header" id="flush-headingTwo">
                         <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
                             data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                            What are the nearby amenities at Thompson Towns?
+                            What are the nearby amenities at Thomson Towns?
                         </button>
                     </h3>
                     <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo"
                         data-bs-parent="#accordionFlushExample">
                         <div class="accordion-body">
-                            Thompson Towns is located near urban amenities, including shopping centers, restaurants,
+                            Thomson Towns is located near urban amenities, including shopping centers, restaurants,
                             schools, and healthcare facilities, ensuring that everything you need is within easy reach.
 
                         </div>
@@ -325,12 +325,12 @@
                     <h3 class="accordion-header " id="flush-headingOne">
                         <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
                             data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                            Who is the builder of Thompson Towns?
+                            Who is the builder of Thomson Towns?
                         </button>
                     </h3>
                     <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne"
                         data-bs-parent="#accordionFlushExample">
-                        <div class="accordion-body">Mattamy Homes is the builder of Thompson Towns.
+                        <div class="accordion-body">Mattamy Homes is the builder of Thomson Towns.
                         </div>
                     </div>
                 </div>
@@ -340,12 +340,12 @@
                         <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse"
                             data-bs-target="#flush-collapseFive" aria-expanded="false"
                             aria-controls="flush-collapseFive">
-                            What is the starting price for Thompson Towns?
+                            What is the starting price for Thomson Towns?
                         </button>
                     </h3>
                     <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingOne"
                         data-bs-parent="#accordionFlushExample">
-                        <div class="accordion-body">Thompson Towns starting from the $989,990.
+                        <div class="accordion-body">Thomson Towns starting from the $989,990.
                         </div>
                     </div>
                 </div>
@@ -407,7 +407,7 @@
                     </div> -->
                     <h6 class="text-center fs-1 fw-bold pt-3 register "> Register today</h6>
                     <div class="registertext px-4 d-flex justify-content-center align-items-center text-center mb-0">
-                        <p>Register today and get the first update on Thompson Towns Scarborough coming up in
+                        <p>Register today and get the first update on Thomson Towns Scarborough coming up in
                             Scarborough
                         </p>
                     </div>
@@ -453,7 +453,7 @@
                             </div>
                             <div class="row ">
                                 <p class=" text-muted sm-text text-center mt-0 ">*I consent to receive future
-                                    communications about Thompson Towns Scarborough. I understand I can opt out at
+                                    communications about Thomson Towns Scarborough. I understand I can opt out at
                                     anytime by
                                     sending
                                     an email.</p>
@@ -481,7 +481,7 @@
                 <div class="col-md-5 my-3 fotwidth center-sm px-4 px-md-0">
 
                     <p class=" mb-0">
-                        <span class="text-dark fw-bold fs-4">Thompson Towns</span>
+                        <span class="text-dark fw-bold fs-4">Thomson Towns</span>
                     </p>
                     <span class="small-text justifyy">
                         Disclaimer: We do not represent the builder. The renderings, floor plans, and images used on
