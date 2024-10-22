@@ -160,8 +160,8 @@
                     Builder: Mattamy Homes
                 </p>
 
-                <p class="mybot pb-md-0 pb-0 ">
-                    Address: 1021 Ellesmere Road , Scarborough
+                <p class="mybot pb-md-0 pb-0 mx-3 mx-md-0">
+                    Address: 1021 Ellesmere Road, Scarborough
                 </p>
                 <p class="mybot pb-md-0 pb-0 ">
                     Storeys : 3
