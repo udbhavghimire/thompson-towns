@@ -125,7 +125,7 @@
                 <div class="d-flex flex-column justify-content-center align-items-center">
 
                     </span>
-                    <span class="fw-bold text-danger headline-textt">$75,000 off</span>
+                    <span class="fw-bold bg-danger text-white headline-textt px-2">$75,000 off</span>
                     <h1 class="main-titlee pb-0  mb-0 mt-2 mt-md-0" data-aos="fade-up" data-aos-duration="2000"
                         data-aos-delay="50">Thomson Towns by Mattamy </span>
                     </h1>
