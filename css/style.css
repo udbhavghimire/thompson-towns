@@ -383,20 +383,18 @@
         position: fixed !important;
         z-index: 9999;
         display: block !important;
-        background-color: #daeff4 !important;
         border-color: #5bdbff1f !important;
     }
 
     .bgggggggg {
-        background-color: #000000 !important;
+        background-color: #004282 !important;
         color: #fff !important;
     }
 
 
     .br-m {
         border-radius: 9px !important;
-        padding-top: .65rem !important;
-        padding-bottom: .65rem !important;
+
     }
 
     .thankyou {

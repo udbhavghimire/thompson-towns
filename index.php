@@ -387,9 +387,8 @@
 
 
 
-    <div class="floating fixcontact"><a href="#Contact"
-            class="btn bgggggggg br-m text-dark w-100 py-2 shadow-lg d-md-none d-block">
-            <span class="fw-bold d-block text-danger ">* $75,000 off</span>
+    <div class="floating fixcontact"><a href="#Contact" class="btn bgggggggg rounded-pill py-2  d-md-none d-block">
+            <span class=" text-white bg-danger px-2 fw-bold">* $75,000 off</span> <br>
             Register Now
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                 class="bi bi-chat-left-dots" viewBox="0 0 16 16">
