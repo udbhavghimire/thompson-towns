@@ -8,11 +8,20 @@ use PHPMailer\PHPMailer\Exception;
 require './PHPMailer/src/Exception.php';
 require './PHPMailer/src/PHPMailer.php';
 require './PHPMailer/src/SMTP.php';
-
 function sendToFollowUpBoss($postData)
 {
+    // Enable error logging
+    error_log("Starting Follow Up Boss API call");
+    error_log("Post Data: " . print_r($postData, true));
+
     $apiUrl = 'https://api.followupboss.com/v1/events';
     $authToken = 'ZmthXzAwTlVCbDF2bGZzRXhyZlZXMmNCYVlqMXJXZzJ6NUNoN2c6';
+
+    // Verify required fields
+    if (empty($postData['name']) || empty($postData['email']) || empty($postData['phone'])) {
+        error_log("Missing required fields for Follow Up Boss");
+        return false;
+    }
 
     // Split name into first and last name
     $nameParts = explode(' ', $postData['name']);
@@ -39,6 +48,8 @@ function sendToFollowUpBoss($postData)
         'message' => $postData['message']
     );
 
+    error_log("FUB Payload: " . print_r($payload, true));
+
     // Setup cURL request
     $ch = curl_init($apiUrl);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
@@ -50,13 +61,27 @@ function sendToFollowUpBoss($postData)
         'Authorization: Basic ' . $authToken
     ));
 
+    // Add SSL verification options
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 2);
+
     // Execute request
     $response = curl_exec($ch);
     $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+
+    // Log any cURL errors
+    if (curl_errno($ch)) {
+        error_log("cURL Error: " . curl_error($ch));
+    }
+
+    error_log("FUB Response Code: " . $httpCode);
+    error_log("FUB Response: " . $response);
+
     curl_close($ch);
 
     return $httpCode >= 200 && $httpCode < 300;
 }
+
 
 
 $mail = new PHPMailer;
@@ -116,20 +141,26 @@ $mail->Body = $message;
 $mail->AltBody = $_POST['message'] . $_POST['email'] . $_POST['name'] . $_POST['phone'];
 
 try {
+    error_log("Starting form submission process");
+
     $emailSent = $mail->send();
+    error_log("Email sent status: " . ($emailSent ? "Success" : "Failed"));
+
     $fubSent = sendToFollowUpBoss($_POST);
+    error_log("Follow Up Boss sent status: " . ($fubSent ? "Success" : "Failed"));
 
     if ($emailSent && $fubSent) {
         $_SESSION["success"] = "Application submitted.";
-        header("Location: ./thankyou/");
+        error_log("Form submission successful");
+        /* header("Location: ./thankyou/"); */
         exit();
     } else {
         throw new Exception("Failed to send email or Follow Up Boss notification");
     }
 } catch (Exception $e) {
-    $_SESSION["error"] = "Application not submitted!";
     error_log("Form submission error: " . $e->getMessage());
-    header("Location: index.php");
+    $_SESSION["error"] = "Application not submitted!";
+    /* header("Location: index.php"); */
     exit();
 }
 
